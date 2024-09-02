@@ -6,12 +6,6 @@
         "address": "0x37e70BAaa62884B4342d1763cF3310d6ac9518b8"
     },
     {
-        "time": "2024-07-31 15:01:07",
-        "timeStamp": 1722438067,
-        "contract": "0xfbd1d3f31abcca1c190f4cb1a43ed8efb0565623",
-        "address": "0x4C5Ac89b9BFb7d9Af3Dd2Af93efFDDB399a0E81C"
-    },
-    {
         "time": "2024-08-08 18:58:18",
         "timeStamp": 1723143498,
         "contract": "0x8faad147ad9e1cdccc97ef6fa3762680c8ba2637",
@@ -184,5 +178,11 @@
         "timeStamp": 1724693032,
         "contract": "0x1584e1fb2dbfaf5adc121dfc7a1c01cc1525b348",
         "address": "0x553A614a8e6d0E8fF55539c8115A88dAc24D7DAa"
+    },
+    {
+        "time": "2024-09-02 21:43:41",
+        "timeStamp": 1725313421,
+        "contract": "0x3a46949a05a6215d174f6526c0c49e85a951770d",
+        "address": "0x4C5Ac89b9BFb7d9Af3Dd2Af93efFDDB399a0E81C"
     }
 ]
